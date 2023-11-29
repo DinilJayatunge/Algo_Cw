@@ -1,0 +1,9 @@
+AB
+AC
+BD
+BE
+CB
+CF
+DE
+EC
+EF
